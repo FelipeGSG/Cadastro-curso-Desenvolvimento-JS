@@ -1,0 +1,39 @@
+{
+  "cadastros": [
+    {
+      "id": "5f2c",
+      "usuario": {},
+      "senha": {}
+    },
+    {
+      "id": "3665",
+      "usuario": "Marina",
+      "senha": "1111"
+    },
+    {
+      "id": "2dcf",
+      "usuario": "Felipe",
+      "senha": "2222"
+    },
+    {
+      "id": "1bf3",
+      "usuario": "Bruna",
+      "senha": "3333"
+    },
+    {
+      "id": "64e0",
+      "usuario": "Caio",
+      "senha": "4444"
+    },
+    {
+      "id": "e0f5",
+      "usuario": "EnricoModz",
+      "senha": "5555"
+    },
+    {
+      "id": "9633",
+      "usuario": "iguin",
+      "senha": "6666"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    overflow: hidden;
+}
+center{
+    scale: 2;
+}
+.titulo{
+    color: darkred;
+}
+.titulo2{
+    color: red;
+}
+label{
+    text-align: left;
+    color: blue;
+    /* background-color: aqua; */
+}
+button{
+    padding: 5px;
+    font-size: 1.5em;
+    font-weight: 600;
+    width: 175px;
+}
